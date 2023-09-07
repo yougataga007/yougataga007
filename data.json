@@ -7,9 +7,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"tiktok","package_name":"com.zhiliaoapp.musically.go","icon":"https://cdn-icons-png.flaticon.com/512/3669/3669373.png"},
+  {"name":"Tinder","package_name":"com.tinder","icon":"https://cdn-icons-png.flaticon.com/512/2504/2504943.png"},
+  {"name":"whatsapp","package_name":"com.whatsapp","icon":"https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-whatsapp-icon-social-media-png-image_6618452.png"}
    ],
 
 
