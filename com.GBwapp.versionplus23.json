@@ -1,54 +1,57 @@
 {
-	"ADS": {
-		 "rewarde_type": "yandex",
-		"native_type": "admob",
-		"inter_type": "yandex",
-		
-		"banner_type": "yandex",
-		"app_package_name": "com.toolswhats2022.allinonewhatstool",
-		 "inter_or_rewarde":"inter",
+    
+  "AppRedirect": {
+    "status": false,
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.tok_proxy.vpn_2023_1"
+  },
+  
+  "AdsController": {
+      
+    "AdNetworkType"           : "admob",
+   
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "",
+    "AdMob_InterstitialAd"    : "",
+    "AdMob_RewardAd"          : "",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_RewardAd"       : "692961278482629_857106118734810"
 
-		"unity_id": "3642932",
+  },
 
- 
-		"ironsource_id": "1639eb565",
-
-		"interstitial_yandex": "R-M-1792465-2",
-		"banner_yandex": "R-M-1792465-1",
-		"native_yandex": "R-M-1792465-3",
-		"rewarde_yandex": "adf-279013/966487",
-
-		"banner_applovin": "adf-279013/966533",
-		"native_applovin": "adf-279013/966533",
-		"interstitial_applovin": "953c99a861c49278",
-		"rewarde_applovin": "adf-279013/966487",
-
-		"interstitial_admob": "ca-app-pub-4369015031881584/2187384609",
-		"banner_admob": "ca-app-pub-4369015031881584/2510291575",
-		"native_admob": "ca-app-pub-4969343588909414/5796240949",
-		"rewarde_admob": "ca-app-pub-3940256099942544/5354046379",
-
-		"interstitial_admob1": "ca-app-pub-4369015031881584/8542971594",
-		"native_admob1": "ca-app-pub-4369015031881584/5764479601",
-		"rewarde_admob1": "ca-app-pub-3940544/5354046379",
-
-		"interstitial_admob2": "ca-app-pub-4369015031881584/7229889928",
-		"native_admob2": "ca-app-pub-4369015031881584/9070381362",
-		"rewarde_admob2": "ca-app-pub099942544/5354046379",
-
-		
-		"facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-		"facebook_native": "ca-app-pub-4567",
-		"facebook_banner": "ca-app-pub-4567",
-		"facebook_rewarde": "ca-app-pub-4567",
-
-		"facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-				"facebook_native1": "ca-app-pub-4567",
-		"facebook_rewarde1": "ca-app-pub-4567",
-
-		
-		"facebook_interstitial2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-				"facebook_native2": "ca-app-pub-4567",
-		"facebook_rewarde2": "ca-app-pub-4567"
-	}  
-   }
+  
+ "AppsPromote": [
+    {
+      "name": "Spotify Music",
+      "packageName": "com.spotify.music",
+      "icon": "https://play-lh.googleusercontent.com/-9pDazczVT7AjhGgjOh_FZdVS0gg03b1I-TzwDoN1J9B4irnNh1inn_-MDOBprIUfT-U=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "Audiomack Music",
+      "packageName": "com.audiomack",
+      "icon": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "StarMaker: Sing Karaoke",
+      "packageName": "com.starmakerinteractive.starmaker",
+      "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e=w240-h480",
+      "download": "+100 Million"
+    },
+    {
+      "name": "SoundCloud: Play Music",
+      "packageName": "com.soundcloud.android",
+      "icon": "https://play-lh.googleusercontent.com/6FoFUmywGeblaF0iUTWb4EdH2SvXeOU_bgXQFRGhHTRiMWVlG8sAVN-BqjlWUJh3GR3a=w240-h480",
+      "download": "+50 Million"
+    },
+    {
+      "name": "Groovepad - music",
+      "packageName": "com.easybrain.make.music",
+      "icon": "https://play-lh.googleusercontent.com/dcJ7ep5ewceCwtR_Xgp7Hfo2GIZxt2WpO5LmqdMfhvKzhOcDmxY84aQBq7kZHs_-vwxP=w240-h480",
+      "download": "+100 Million"
+    }
+  ]
+}
