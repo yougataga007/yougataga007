@@ -1,0 +1,57 @@
+{
+    
+  "AppRedirect": {
+    "status": false,
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.Daily.vpn_2023"
+  },
+  
+  "AdsController": {
+      
+    "AdNetworkType"           : "admob",
+   
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "",
+    "AdMob_InterstitialAd"    : "",
+    "AdMob_RewardAd"          : "",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_RewardAd"       : "692961278482629_857106118734810"
+
+  },
+
+  
+ "AppsPromote": [
+    {
+      "name": "Holla Proxy Fast VPN",
+      "packageName": "com.Swing.vpn_2023",
+      "icon": "https://play-lh.googleusercontent.com/Nm05lskRUwhE2IT5zCN8sJEJMp4VsVvWYc1j17hhxLKgDbcog53zQgzPda5Lnunagw=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Proxy VPN HUB : Fast 2023",
+      "packageName": "com.Swing.vpn_2023",
+      "icon": "https://play-lh.googleusercontent.com/hQmzgtvjjJsalA80ZMEh-ngt68KaFJ29DV_Aw1hZgCzv2MryH5tkt81CX-lVSJ69BaI=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Swing VPN",
+      "packageName": "com.Swing.vpn_2023",
+      "icon": "https://play-lh.googleusercontent.com/pj6T0Q7Z1QoYbJ1gm7lgcPMZcxM3LWO17NiXn21bNvW06H_V_F966FGcRZ5BuxtovLe6=w240-h480",
+      "download": "+100 Million"
+    },
+    {
+      "name": "OK VPN Fast and Free",
+      "packageName": "com.Swing.vpn_2023",
+      "icon": "https://play-lh.googleusercontent.com/1vRk6OVgBOqbOkCWrFu5SEFbEHE57tqnsEVgh7T5sffBFeN3-Nezh81zHxaspwcUjA=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "NetGO VPN ",
+      "packageName": "com.Swing.vpn_2023",
+      "icon": "https://play-lh.googleusercontent.com/zickmiKXTxbHz97-QqPyfRr8i09q2Di7stvttIZaRpuNBVX8_y8UkFgHlI-s4KvI7tc=w240-h480",
+      "download": "+100 Million"
+    }
+  ]
+}
