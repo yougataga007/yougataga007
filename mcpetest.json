@@ -10,8 +10,8 @@
       
     "BannerNetwork"       : "admob",
     "InterstitialNetwork" : "admob",
-    "NativeNetwork"       : "facebook",
-    "RewardNetwork"       : "applovin",
+    "NativeNetwork"       : "admob",
+    "RewardNetwork"       : "admob",
      
     "IntervalClick"       : 1,
     
