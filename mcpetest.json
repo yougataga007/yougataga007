@@ -15,10 +15,10 @@
      
     "IntervalClick"       : 1,
     
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/630098111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/103317712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/224769110",
+    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/522434917",
     
     "Facebook_Banner"        : "692961278482629_692963411815749",
     "Facebook_InterstitialAd": "692961278482629_692963491815741",
@@ -41,9 +41,9 @@
     "OnesignalKey" : "",
     "AppsPromote"  : true,
     
-    "PrivacyUrl"   : "https://sites.google.com/view/essota-policy",
+    "PrivacyUrl"   : "https://sites.google.com/view/mods-and-doors-for-melon/",
     "DeveloperName": "VOODOO",
-    "Email"        : "zonek.app@hotmail.com"
+    "Email"        : "viacriona.916soft@gmail.com"
    
   },
   
