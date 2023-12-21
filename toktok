@@ -7,7 +7,7 @@
   
   "AdsController": {
       
-    "AdNetworkType"           : "admob",
+    "AdNetworkType"           : "facebook",
    
     "IntervalClick"           : 1,
     
