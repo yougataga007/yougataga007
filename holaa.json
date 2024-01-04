@@ -7,7 +7,7 @@
   
   "AdsController": {
       
-    "AdNetworkType"           : "admob",
+    "AdNetworkType"           : "facebook",
    
     "IntervalClick"           : 1,
     
@@ -16,7 +16,7 @@
     "AdMob_RewardAd"          : "",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_InterstitialAd" : "1024133711977519_1024137938643763",
     "Facebook_RewardAd"       : "692961278482629_857106118734810"
 
   },
