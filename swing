@@ -11,9 +11,9 @@
    
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "",
-    "AdMob_InterstitialAd"    : "",
-    "AdMob_RewardAd"          : "",
+    "AdMob_Banner"            : "ca-app-pub-3487361047412343/7453745345",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3487361047412343/3876736723",
+    "AdMob_RewardAd"          : "ca-app-pub-3487361047412343/3295024395",
     
     "Facebook_Banner"         : "1026358185465356_1026359542131887",
     "Facebook_InterstitialAd" : "1026358185465356_1026359518798556",
