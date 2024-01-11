@@ -17,9 +17,9 @@
  
   "MyList": [
        {
-      "title": "Android Studio Jirraf",
-      "image": "https://i.ytimg.com/vi/tg_f1pjmQSA/hqdefault.jpg",
-      "type": "Program",
+      "title": "слово пацана смотреть 1080p",
+      "image": "https://i.ibb.co/L8whMb7/4W9QP1-1.webp",
+      "type": "загрузки",
       "shortDescription": "Programming language Java used for developing applications on the Android operating system",
       "activities": [
         {
@@ -36,7 +36,7 @@
     {
       "title": "Eclipse",
       "image": "https://www.thecoderworld.com/wp-content/uploads/2022/02/How-to-Install-Eclipse-IDE-for-Java-on-Windows-11.jpg",
-      "type": "Program",
+      "type": "загрузки",
       "shortDescription": "A widely used integrated development environment (IDE)",
       "activities": [
         {
@@ -65,7 +65,7 @@
     {
       "title": "Flutter",
       "image": "https://blog.logrocket.com/wp-content/uploads/2022/02/Best-IDEs-Flutter-2022.png",
-      "type": "Program",
+      "type": "загрузки",
       "shortDescription": "Flutter continues to evolve, supported by an active community and regular updates from Google",
       "activities": [
         {
