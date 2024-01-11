@@ -86,42 +86,7 @@
       "packageName": "com.gamedevltd.destinywarfare",
       "icon": "https://play-lh.googleusercontent.com/s1yj6Ryf6ZCkCp2f5i1I6AtAG55aViG2VolXW2Q-TMKLSBBE4KCMvidKsS4fn_0wLxo",
       "download": "+100 M"
-    },
-    {
-      "name": "Modern Combat 5",
-      "packageName": "com.gameloft.android.ANMP.GloftM5HM",
-      "icon": "https://play-lh.googleusercontent.com/N5OhX0Em8Uuu5B4JaXKZmwzy-0UUfGiF3OjDxdGic1m49DJyNujFgPFZSa0AJf4hiIKP",
-      "download": "+500 M"
-    },
-    {
-      "name": "UNKILLED - FPS Zombie",
-      "packageName": "com.madfingergames.unkilled",
-      "icon": "https://play-lh.googleusercontent.com/0CtIHA18zPTwALuro5uDREb78QDHrU1rHTksgFDRAgXDJN2b4yQ_3OD1rmXctWPrs68",
-      "download": "+10 Million"
-    },
-    {
-      "name": "World War Heroes",
-      "packageName": "https://play.google.com/store/apps/details?id=com.gamedevltd.wwh",
-      "icon": "https://play-lh.googleusercontent.com/lHKqAt-PZSz-7ifRyOKr6D8Y2xal4rmhpA1_qKRUpCBLlV-QlZWLuOcG8Li9mcqJqA",
-      "download": "+50 Million"
-    },
-    {
-      "name": "Warface GO",
-      "packageName": "com.my.warface.online.fps.pvp.action.shooter",
-      "icon": "https://play-lh.googleusercontent.com/oR4dPeWmN3IWpKUoiI4j1CX3PiedHcvZ5XVcWdQ921U-cl5Smpqbo1PlAcp95u-A5g",
-      "download": "+500 M"
-    },
-    {
-      "name": "Protectors: Shooter Legends",
-      "packageName": "com.playkot.protectors",
-      "icon": "https://play-lh.googleusercontent.com/ASUNlLp5vOlzHLpf928le-Tz_8IMfxJ9jQGb2f70hcPCBozBV9BoUTIRaqjDG6PogQE",
-      "download": "+10 Million"
-    },
-    {
-      "name": "Zombie Horde: Heroes",
-      "packageName": "com.aboutfun.horde",
-      "icon": "https://play-lh.googleusercontent.com/W5oLiVcmaKNtuweLFbK0cvQy_NsncKCQA47OCzcUM8WdmmcyTKmZEQ9BC8CyEeYaTvg=s48",
-      "download": "+50 Million"
+
     }
     
   ]
