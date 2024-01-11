@@ -1,0 +1,130 @@
+{
+    
+  "AppRedirect": {
+    "status"        : false,
+    "redirect_link" : "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "YandexBanner"         : "demo-banner-yandex",
+    "YandexInterstitialAd" : "demo-interstitial-yandex",
+    "YandexNative"         : "demo-native-app-yandex",
+    "YandexReward"         : "demo-rewarded-yandex"
+    
+  },
+  
+ 
+  "MyList": [
+       {
+      "title": "Android Studio Jirraf",
+      "image": "https://i.ytimg.com/vi/tg_f1pjmQSA/hqdefault.jpg",
+      "type": "Program",
+      "shortDescription": "Programming language Java used for developing applications on the Android operating system",
+      "activities": [
+        {
+          "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210406180943/How-to-Speed-Up-Android-Studio.jpg",
+          "text": "Android Studio is the official Integrated Development Environment (IDE) for Android app development. It provides a comprehensive set of tools for building Android applications using Java, Kotlin, or other supported languages. Within Android Studio, developers can write, edit, debug, and test their code efficiently."
+        },
+        {
+          "image": "https://i.ytimg.com/vi/0uqFdkmCQV4/maxresdefault.jpg",
+          "text": "When referring to Android Studio Java, it typically means using Java as the primary programming language within Android Studio for creating Android applications. This involves leveraging the Java programming language, along with the Android SDK (Software Development Kit) and various tools provided by Android Studio, to design and develop mobile apps for the Android platform."
+        }
+      ]
+    },
+
+    {
+      "title": "Eclipse",
+      "image": "https://www.thecoderworld.com/wp-content/uploads/2022/02/How-to-Install-Eclipse-IDE-for-Java-on-Windows-11.jpg",
+      "type": "Program",
+      "shortDescription": "A widely used integrated development environment (IDE)",
+      "activities": [
+        {
+          "image": "https://i.ytimg.com/vi/dwNLNk2LKBE/maxresdefault.jpg",
+          "text": "Was once a popular choice for Android app development using the Java programming language. It provided developers with a robust set of tools, such as the Android Development Tools (ADT) plugin, which enabled them to create, debug, and optimize Android applications efficiently."
+        },
+        {
+          "image": "https://i.ytimg.com/vi/Bhgnz6aZg1Y/maxresdefault.jpg",
+          "text": "Eclipse's user-friendly interface and extensive community support made it an attractive option for both beginners and experienced developers. However, it's worth noting that Google officially deprecated the Eclipse ADT plugin in favor of Android Studio, a more specialized and powerful IDE for Android development."
+        },
+        {
+          "image": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/40f529d3-57ee-4641-bd83-d2502d043c0d.png",
+          "text": "As a result, while Eclipse can still be used for Android development with Java, many developers have transitioned to Android Studio due to its comprehensive features and official support from Google"
+        },
+        {
+          "image": "https://www.opensourceforu.com/wp-content/uploads/2023/04/Eclipse-IDE.jpg",
+          "text": "Please keep in mind that Android development tools and trends may have evolved since my last knowledge update in January 2022, so it's a good idea to check the latest recommendations and best practices in the field."
+        },
+        {
+          "image": "https://www.tabnine.com/blog/wp-content/uploads/2021/11/blog_image_19-1.png",
+          "text": "For specific programming tasks or needs, developers might find more specialized and feature-rich alternatives, such as IntelliJ IDEA for Java, Android Studio for Android development, or Visual Studio Code for a lightweight and versatile coding experience.\n\nAlways consider the specific requirements of your project and the most up-to-date recommendations before choosing an IDE for your development work."
+        }
+      ]
+    },
+
+    {
+      "title": "Flutter",
+      "image": "https://blog.logrocket.com/wp-content/uploads/2022/02/Best-IDEs-Flutter-2022.png",
+      "type": "Program",
+      "shortDescription": "Flutter continues to evolve, supported by an active community and regular updates from Google",
+      "activities": [
+        {
+          "image": "https://flutterdesk.com/wp-content/uploads/2022/05/Flutter-3.0.jpg",
+          "text": "Flutter is an open-source UI software development toolkit created by Google that allows developers to craft natively compiled applications for mobile, web, and desktop from a single codebase. Launched in 2018, Flutter has gained substantial traction in the development community due to its revolutionary approach. Its key strength lies in the use of Dart"
+        },
+        {
+          "image": "https://mobilecoderz.com/blog/wp-content/uploads/2022/05/Flutter-3.0-Released-Know-The-Latest-Features-Updates-Here.png",
+          "text": "A programming language also developed by Google, and its unique feature—hot reload, enabling real-time code changes without losing the app's state. This capability significantly speeds up the development process, fostering quick iteration and debugging. Flutter's emphasis on creating beautiful, high-performance applications, its rich set of customizable widgets, and its cross-platform capabilities make it an attractive choice for developers looking to build responsive, visually appealing apps across multiple platforms efficiently"
+        }
+      ]
+    }
+  ],
+  
+  "AppsPromote": [
+    {
+      "name": "Infinity Ops: Cyberpunk FPS",
+      "packageName": "com.gamedevltd.destinywarfare",
+      "icon": "https://play-lh.googleusercontent.com/s1yj6Ryf6ZCkCp2f5i1I6AtAG55aViG2VolXW2Q-TMKLSBBE4KCMvidKsS4fn_0wLxo",
+      "download": "+100 M"
+    },
+    {
+      "name": "Modern Combat 5",
+      "packageName": "com.gameloft.android.ANMP.GloftM5HM",
+      "icon": "https://play-lh.googleusercontent.com/N5OhX0Em8Uuu5B4JaXKZmwzy-0UUfGiF3OjDxdGic1m49DJyNujFgPFZSa0AJf4hiIKP",
+      "download": "+500 M"
+    },
+    {
+      "name": "UNKILLED - FPS Zombie",
+      "packageName": "com.madfingergames.unkilled",
+      "icon": "https://play-lh.googleusercontent.com/0CtIHA18zPTwALuro5uDREb78QDHrU1rHTksgFDRAgXDJN2b4yQ_3OD1rmXctWPrs68",
+      "download": "+10 Million"
+    },
+    {
+      "name": "World War Heroes",
+      "packageName": "https://play.google.com/store/apps/details?id=com.gamedevltd.wwh",
+      "icon": "https://play-lh.googleusercontent.com/lHKqAt-PZSz-7ifRyOKr6D8Y2xal4rmhpA1_qKRUpCBLlV-QlZWLuOcG8Li9mcqJqA",
+      "download": "+50 Million"
+    },
+    {
+      "name": "Warface GO",
+      "packageName": "com.my.warface.online.fps.pvp.action.shooter",
+      "icon": "https://play-lh.googleusercontent.com/oR4dPeWmN3IWpKUoiI4j1CX3PiedHcvZ5XVcWdQ921U-cl5Smpqbo1PlAcp95u-A5g",
+      "download": "+500 M"
+    },
+    {
+      "name": "Protectors: Shooter Legends",
+      "packageName": "com.playkot.protectors",
+      "icon": "https://play-lh.googleusercontent.com/ASUNlLp5vOlzHLpf928le-Tz_8IMfxJ9jQGb2f70hcPCBozBV9BoUTIRaqjDG6PogQE",
+      "download": "+10 Million"
+    },
+    {
+      "name": "Zombie Horde: Heroes",
+      "packageName": "com.aboutfun.horde",
+      "icon": "https://play-lh.googleusercontent.com/W5oLiVcmaKNtuweLFbK0cvQy_NsncKCQA47OCzcUM8WdmmcyTKmZEQ9BC8CyEeYaTvg=s48",
+      "download": "+50 Million"
+    }
+    
+  ]
+  
+  
+}
