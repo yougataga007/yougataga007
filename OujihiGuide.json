@@ -8,9 +8,9 @@
   "AdsController": {
       
     "YandexBanner"         : "demo-banner-yandex",
-    "YandexInterstitialAd" : "demo-interstitial-yandex",
+    "YandexInterstitialAd" : "demo-interstitial-yndex",
     "YandexNative"         : "demo-native-app-yandex",
-    "YandexReward"         : "demo-rewarded-yandex"
+    "YandexReward"         : "demo-rewarded-andex"
     
   },
   
