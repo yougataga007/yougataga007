@@ -9,7 +9,7 @@
       
 
     "BannerNetwork"           : "huawei",
-    "InterstitialNetwork"     : "huawei",
+    "InterstitialNetwork"     : "admob",
     
     "IntervalClick"           : 1,
     
