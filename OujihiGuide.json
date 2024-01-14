@@ -7,10 +7,10 @@
   
   "AdsController": {
       
-    "YandexBanner"         : "demo-banner-yandex",
-    "YandexInterstitialAd" : "demo-interstitial-yndex",
-    "YandexNative"         : "demo-native-app-yandex",
-    "YandexReward"         : "demo-rewarded-andex"
+    "YandexBanner"         : "R-M-5219052-1",
+    "YandexInterstitialAd" : "R-M-5219052-3",
+    "YandexNative"         : "R-M-5219052-2",
+    "YandexReward"         : "R-M-5219052-4"
     
   },
   
