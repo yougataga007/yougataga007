@@ -15,7 +15,7 @@
       "show_interstitial_welcome_2"  : true,
       "show_interstitial_welcome_3"  : true,
       "show_interstitial_select_type": true,
-      "show_interstitial_camera"     : true,
+      "show_interstitial_camera"     : false,
       "show_interstitial_gallery"    : true,
       "show_interstitial_button_collection": true,
       "show_interstitial_editor_save"   : true,
